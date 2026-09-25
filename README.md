@@ -92,3 +92,9 @@ ETL
 Data Engineering
    ↓
 Cloud & Big Data
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Uttkarsh Pal](https://www.linkedin.com/in/uttkarsh-pal-web-developer/)
+- 💻 GitHub: [Uttkarshpal0009](https://github.com/Uttkarshpal0009)
+- 🌐 Portfolio: [My Portfolio](https://your-portfolio-link-here)
+- 📧 Email: uttkarshpal0009@gmail.com
