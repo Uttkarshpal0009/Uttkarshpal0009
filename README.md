@@ -1,100 +1,124 @@
-# Hi 👋, I'm Uttkarsh Pal
+<div align="center">
 
-### Aspiring Data Engineer | Python Developer
+# 👋 Hi, I'm Uttkarsh Pal
 
-I build data-focused projects using Python, SQL, APIs, ETL pipelines,
-data validation, cleaning, and automation.
+### 🐍 Aspiring Data Engineer | Python Developer
 
-Currently focused on strengthening my skills in Data Engineering and
-building production-style projects.
+**Building practical data pipelines, ETL workflows & API-based systems**
+
+<br/>
+
+<a href="https://github.com/Uttkarshpal0009">
+  <img src="https://img.shields.io/badge/GitHub-Uttkarshpal0009-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/uttkarsh-pal-web-developer/">
+  <img src="https://img.shields.io/badge/LinkedIn-Uttkarsh%20Pal-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science / Technology background
-- 🐍 Learning and building with Python
-- 📊 Interested in Data Engineering & Analytics
-- 🔄 Building ETL and data ingestion pipelines
-- 🗄️ Learning SQL and database concepts
-- 🌱 Currently improving my Data Engineering skills
-- 💼 Open to internships and entry-level opportunities
+I'm an aspiring **Data Engineer** focused on building reliable and
+practical data solutions using Python, SQL, APIs and ETL pipelines.
+
+I enjoy working with data from different sources, cleaning and
+validating datasets, building ingestion pipelines and automating
+data-processing workflows.
+
+- 🐍 Working with **Python & Pandas**
+- 🗄️ Learning and practicing **SQL & PostgreSQL**
+- 🔄 Building **ETL & Data Ingestion Pipelines**
+- 🌐 Working with **REST APIs**
+- 🧪 Writing tests with **Pytest**
+- 📊 Interested in **Data Engineering & Analytics**
+- 🌱 Currently improving my **SQL, Python & Data Engineering** skills
+- 💼 Open to **Internship & Entry-Level Opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming
-- Python
-- JavaScript
+### 💻 Programming & Data
 
-### Data Engineering
-- ETL Pipelines
-- Data Cleaning
-- Data Validation
-- API Data Ingestion
-- Data Processing
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
-### Database
-- SQL
-- MongoDB
+### 🔄 Data Engineering
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+<p>
+  <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Validation-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Cleaning-00A67E?style=for-the-badge"/>
+</p>
 
----
+### 🗄️ Databases & Tools
 
-## 📌 Featured Projects
-
-### 🔹 Customer Data Cleaning Pipeline
-Python-based data pipeline for cleaning, validating and processing
-customer data.
-
-**Tech:** Python, Pandas, CSV, Logging, Pytest
-
-[View Project](https://github.com/Uttkarshpal0009/customer-data-cleaning-pipeline)
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge"/>
+</p>
 
 ---
 
-### 🔹 API Data Ingestion Pipeline
-A Python pipeline that fetches data from APIs, processes and validates
-the data, and generates reports.
+## 🚀 Featured Projects
 
-**Tech:** Python, REST API, Data Processing, Validation
+### 📊 Customer Data Cleaning Pipeline
 
-[View Project](https://github.com/Uttkarshpal0009/api-data-ingestion-pipeline)
+A Python-based data pipeline designed to clean, validate and process
+customer data while generating data-quality reports.
 
----
+**Tech:** `Python` `Pandas` `CSV` `Validation` `Logging` `Pytest`
 
-### 🔹 Notes App
-A full-stack notes application with create, edit and delete functionality.
-
-**Tech:** React, JavaScript, Tailwind CSS
-
-[View Project](https://github.com/Uttkarshpal0009/notes-app)
+🔗 [View Project](https://github.com/Uttkarshpal0009/customer-data-cleaning-pipeline)
 
 ---
 
-## 📈 Currently Learning
+### 🌐 API Data Ingestion Pipeline
+
+A Python-based data ingestion pipeline that fetches data from APIs,
+processes and validates the data, performs cleaning operations and
+generates reports.
+
+**Tech:** `Python` `REST API` `Data Processing` `Validation`
+
+🔗 [View Project](https://github.com/Uttkarshpal0009/api-data-ingestion-pipeline)
+
+---
+
+### 📝 Notes App
+
+A responsive full-stack notes application with functionality for
+creating, editing and deleting notes.
+
+**Tech:** `React` `JavaScript` `Tailwind CSS`
+
+🔗 [View Project](https://github.com/Uttkarshpal0009/notes-app)
+
+---
+
+## 📚 Currently Learning
 
 ```text
 Python
-   ↓
+  ↓
 Pandas
-   ↓
+  ↓
 SQL
-   ↓
-ETL
-   ↓
+  ↓
+PostgreSQL
+  ↓
+ETL & Data Pipelines
+  ↓
 Data Engineering
-   ↓
-Cloud & Big Data
-## 📫 Connect With Me
-
-- 💼 LinkedIn: [Uttkarsh Pal](https://www.linkedin.com/in/uttkarsh-pal-web-developer/)
-- 💻 GitHub: [Uttkarshpal0009](https://github.com/Uttkarshpal0009)
-- 🌐 Portfolio: [My Portfolio](https://uttkarsh-portfolio.vercel.app/)
-- 📧 Email: uttkarshpal0009@gmail.com
+  ↓
+Cloud Technologies
