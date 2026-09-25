@@ -227,3 +227,13 @@ ETL
 Data Engineering
    ↓
 Cloud Technologies
+
+<div align="center">
+
+"First, solve the problem. Then, write the code."
+
+</div>
+
+<div align="center">
+🖤 BUILD • LEARN • DEBUG • REPEAT
+<br>
