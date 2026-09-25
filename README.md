@@ -1,124 +1,36 @@
 <div align="center">
 
-# 👋 Hi, I'm Uttkarsh Pal
+# 🖤 Uttkarsh Pal
 
-### 🐍 Aspiring Data Engineer | Python Developer
+### `Aspiring Data Engineer` • `Python Developer`
 
-**Building practical data pipelines, ETL workflows & API-based systems**
+**Building Data Pipelines • ETL Workflows • API Systems**
 
-<br/>
+<br>
 
 <a href="https://github.com/Uttkarshpal0009">
-  <img src="https://img.shields.io/badge/GitHub-Uttkarshpal0009-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/uttkarsh-pal-web-developer/">
-  <img src="https://img.shields.io/badge/LinkedIn-Uttkarsh%20Pal-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🖤 About Me
 
-I'm an aspiring **Data Engineer** focused on building reliable and
-practical data solutions using Python, SQL, APIs and ETL pipelines.
+> I am an aspiring **Data Engineer** passionate about building
+> practical and reliable data solutions.
 
-I enjoy working with data from different sources, cleaning and
-validating datasets, building ingestion pipelines and automating
-data-processing workflows.
-
-- 🐍 Working with **Python & Pandas**
-- 🗄️ Learning and practicing **SQL & PostgreSQL**
-- 🔄 Building **ETL & Data Ingestion Pipelines**
-- 🌐 Working with **REST APIs**
-- 🧪 Writing tests with **Pytest**
-- 📊 Interested in **Data Engineering & Analytics**
-- 🌱 Currently improving my **SQL, Python & Data Engineering** skills
-- 💼 Open to **Internship & Entry-Level Opportunities**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming & Data
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
-### 🔄 Data Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Validation-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Cleaning-00A67E?style=for-the-badge"/>
-</p>
-
-### 🗄️ Databases & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 📊 Customer Data Cleaning Pipeline
-
-A Python-based data pipeline designed to clean, validate and process
-customer data while generating data-quality reports.
-
-**Tech:** `Python` `Pandas` `CSV` `Validation` `Logging` `Pytest`
-
-🔗 [View Project](https://github.com/Uttkarshpal0009/customer-data-cleaning-pipeline)
-
----
-
-### 🌐 API Data Ingestion Pipeline
-
-A Python-based data ingestion pipeline that fetches data from APIs,
-processes and validates the data, performs cleaning operations and
-generates reports.
-
-**Tech:** `Python` `REST API` `Data Processing` `Validation`
-
-🔗 [View Project](https://github.com/Uttkarshpal0009/api-data-ingestion-pipeline)
-
----
-
-### 📝 Notes App
-
-A responsive full-stack notes application with functionality for
-creating, editing and deleting notes.
-
-**Tech:** `React` `JavaScript` `Tailwind CSS`
-
-🔗 [View Project](https://github.com/Uttkarshpal0009/notes-app)
-
----
-
-## 📚 Currently Learning
+I work with **Python, SQL, APIs, ETL pipelines and data processing**.
+My focus is on building projects that solve real-world data problems
+rather than just practicing isolated concepts.
 
 ```text
-Python
-  ↓
-Pandas
-  ↓
-SQL
-  ↓
-PostgreSQL
-  ↓
-ETL & Data Pipelines
-  ↓
-Data Engineering
-  ↓
-Cloud Technologies
+Python       → Data Processing
+SQL          → Data Analysis
+APIs         → Data Ingestion
+ETL          → Data Pipelines
+Testing      → Reliable Systems
