@@ -28,13 +28,13 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm currently building **Full Stack Web Development & Data Engineering projects**
-- 🌱 I'm currently learning **Python, SQL, ETL & Data Engineering**
-- ⚛️ I build modern web applications using the **MERN Stack**
-- 🐍 I work with **Python & Pandas** for data processing
+- 🔭 Currently building **Full Stack Web Development & Data Engineering projects**
+- 🌱 Currently learning **Python, SQL, ETL & Data Engineering**
+- ⚛️ Building modern web applications using the **MERN Stack**
+- 🐍 Working with **Python & Pandas** for data processing
 - 🔄 Interested in **ETL pipelines, APIs & automation**
 - 💡 I enjoy turning ideas into **real-world applications**
-- 🧪 I believe in writing clean, maintainable and testable code
+- 🧪 Interested in writing clean, maintainable and testable code
 - 💼 Open to **Internship & Entry-Level Opportunities**
 - ⚡ Fun fact: **I turn coffee into code ☕ → 💻**
 
@@ -93,7 +93,7 @@
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
 </p>
 
-### 🔧 Tools & Technologies
+### 🔧 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
@@ -105,8 +105,8 @@
 
 ## 📊 Customer Data Cleaning Pipeline
 
-Python-based data pipeline for cleaning, validating and processing
-customer datasets with automated data-quality reporting.
+A Python-based data pipeline designed to clean, validate and process
+customer datasets while generating data-quality reports.
 
 **Tech Stack**
 
@@ -135,11 +135,11 @@ reports.
 A full-stack cloud storage application for uploading and managing
 files through a web interface.
 
-**Features**
+### Features
 
 - 📤 File Upload
 - 📁 File Management
-- 🔐 Authentication
+- 🔐 User Authentication
 - ☁️ Cloud Storage
 - 📱 Responsive UI
 
@@ -153,8 +153,15 @@ files through a web interface.
 
 ## 🤖 IntervueAI
 
-An AI-powered interview preparation platform designed for technical
-interview practice.
+An AI-powered interview preparation platform designed to help users
+practice technical interviews.
+
+### Features
+
+- 🔐 User Authentication
+- 🤖 AI Interview Preparation
+- 💻 Technical Interview Practice
+- 📊 Interview Experience
 
 **Tech Stack**
 
@@ -183,9 +190,15 @@ functionality.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Uttkarshpal0009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<br><br>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Uttkarshpal0009&theme=tokyonight&hide_border=true&background=0D1117" />
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Uttkarshpal0009&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -201,17 +214,9 @@ functionality.
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Uttkarshpal0009&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-
-</div>
-
----
-
 # 🎯 Currently Learning
+
+### 📊 Data Engineering
 
 ```text
 Python
@@ -224,16 +229,8 @@ PostgreSQL
    ↓
 ETL
    ↓
+Data Pipelines
+   ↓
 Data Engineering
    ↓
 Cloud Technologies
-
-<div align="center">
-
-"First, solve the problem. Then, write the code."
-
-</div>
-
-<div align="center">
-🖤 BUILD • LEARN • DEBUG • REPEAT
-<br>
